@@ -1,4 +1,4 @@
-# Learning ‹Subject›
+# Learning Contact tracing
 
 ‹COVID-19 contact tracing› and related graph technologies – articles, useful resources, personal notes.
 
@@ -10,6 +10,6 @@
 
 * [linkeddata/rdflib.js](https://linkeddata.github.io/rdflib.js/doc/)
 
-## Additional resources
+## Supporting Datasets
 
-TODO
+* [PersonalDataIO/GEgraph](https://github.com/PersonalDataIO/GEgraph)
