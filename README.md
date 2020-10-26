@@ -9,6 +9,7 @@
 ## Technological articles
 
 * [« Contact tracing — an amazing graph problem & rabbit hole »](https://blog.bruggen.com/2020/04/covid-19-contact-tracing-blogpost-part_21.html) by Rik Van Bruggen, 21.04.2020
+* [Configurable pattern matching semantics in OpenCypher](https://www.slideshare.net/mobile/openCypher/configurable-pattern-matching-semantics-in-opencypher-defining-levels-of-node-and-relationship-uniqueness) CIP, 2017
 
 ## Supporting and related technologies
 
