@@ -14,6 +14,7 @@
 ## Supporting and related technologies
 
 * [linkeddata/rdflib.js](https://linkeddata.github.io/rdflib.js/doc/)
+* [RDF 1.1 Primer](https://www.w3.org/TR/rdf11-primer/)
 * [NetworkX](https://networkx.org) — Network analysis in Python
 * [zakjan/pixi-graph](https://github.com/zakjan/pixi-graph) — Graph visualization library using Pixi.js and Graphology
 
